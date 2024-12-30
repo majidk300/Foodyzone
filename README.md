@@ -1,6 +1,4 @@
 
-Here’s your updated README.md, now including your Google Drive image link:
-
 <h1 align="center">🍽️ Foody Zone</h1> <p align="center"> <i>Foody Zone is a modern and intuitive food menu application that allows users to browse, search, and filter food items dynamically.</i><br> Built with <b>React</b> and <b>Vite</b>, it fetches data from an external API and displays it in a clean and responsive UI. The application uses <b>Styled Components</b> for modular and scalable styling. </p>
 🚀 Features:
 Dynamic Filtering: Filter food items by categories like All, Breakfast, Lunch, or Dinner.
@@ -24,7 +22,7 @@ Foody Zone/
 └── vite.config.js      # Vite configuration file
 📸 Screenshots:
 Home Page
-<p align="center" style="padding:20px 0 10px 0"> <img src="https://drive.google.com/uc?id=1KQTLdiHJN-0JDpAHKnSe_rMudmMLRWUQ" alt="Foody Zone Screenshot" width="80%"/> </p> <i>The homepage displays a list of all food items with filtering and search functionalities.</i>
+<p align="center" style="padding:20px"> <img src="https://drive.google.com/uc?id=1KQTLdiHJN-0JDpAHKnSe_rMudmMLRWUQ" alt="Foody Zone Screenshot" width="80%"/> </p> <i>The homepage displays a list of all food items with filtering and search functionalities.</i>
 📝 API Example (Sample Data):
 json
 Copy code
